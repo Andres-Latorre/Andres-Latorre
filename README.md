@@ -1,16 +1,53 @@
-## Hi there 👋
+# Andrés Latorre
 
-<!--
-**Andres-Latorre/Andres-Latorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Economist with a strong interest in data analytics and evidence-based decision making.  
+Currently, I am pursuing a Master’s degree in Data Analytics, where I combine my background in economics with programming, data analysis, and visualization tools.
 
-Here are some ideas to get you started:
+My professional and academic interests focus on:
+- Social and circular economy
+- Public policy analysis
+- Impact evaluation
+- Data-driven insights for decision making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to understand real-world economic and social problems and to translate complex information into clear and actionable insights.
+
+---
+
+## Skills & Tools
+
+### Economics & Analysis
+- Economic analysis and interpretation
+- Social economy and public policy
+- Impact evaluation and applied research
+- Data-driven decision making
+
+### Data Analytics
+- Python (Pandas, NumPy)
+- Data cleaning and exploratory data analysis (EDA)
+- Data visualization
+- Basic statistical analysis
+
+### Tools & Technologies
+- Python
+- Jupyter Notebook / Google Colab
+- SQL (basic to intermediate)
+- Excel & Google Sheets
+- Data visualization libraries (Matplotlib, Seaborn)
+
+---
+
+## Projects
+This repository contains projects, exercises, and analyses related to:
+- Data analytics
+- Economics
+- Applied data analysis for social and economic contexts
+
+Projects are developed as part of my academic training and personal learning process.
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/andreslatorre
+- GitHub: https://github.com/Andres-Latorre
+
