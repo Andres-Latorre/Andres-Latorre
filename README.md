@@ -1,6 +1,4 @@
-# Andrés Latorre
-
-## About Me
+# About Me
 I am an Economist with a strong interest in data analytics and evidence-based decision making.  
 Currently, I am pursuing a Master’s degree in Data Analytics, where I combine my background in economics with programming, data analysis, and visualization tools.
 
